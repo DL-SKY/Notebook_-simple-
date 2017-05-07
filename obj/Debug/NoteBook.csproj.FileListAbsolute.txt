@@ -1,0 +1,9 @@
+D:\VisualStudio\NoteBook\NoteBook\bin\Debug\NoteBook.exe.config
+D:\VisualStudio\NoteBook\NoteBook\bin\Debug\NoteBook.exe
+D:\VisualStudio\NoteBook\NoteBook\bin\Debug\NoteBook.pdb
+D:\VisualStudio\NoteBook\NoteBook\obj\Debug\NoteBook.csprojResolveAssemblyReference.cache
+D:\VisualStudio\NoteBook\NoteBook\obj\Debug\NoteBook.Form1.resources
+D:\VisualStudio\NoteBook\NoteBook\obj\Debug\NoteBook.Properties.Resources.resources
+D:\VisualStudio\NoteBook\NoteBook\obj\Debug\NoteBook.csproj.GenerateResource.Cache
+D:\VisualStudio\NoteBook\NoteBook\obj\Debug\NoteBook.exe
+D:\VisualStudio\NoteBook\NoteBook\obj\Debug\NoteBook.pdb
